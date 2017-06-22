@@ -1,6 +1,6 @@
 #! /bin/sh -e
 
-image="mschuerig/debian-subsonic"
+image="majormjr/debian-subsonic"
 music="/data/music"
 data="/var/local/subsonic"
 http_subsonicport=4040
