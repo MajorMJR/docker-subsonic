@@ -2,6 +2,8 @@
 This repository contains configuration files for building a
 Docker (http://docker.io) image for the Subsonic media streamer.
 
+This container is modified slightly from https://github.com/mschuerig/subsonic-docker-image in order to support Docker automated builds.
+
 ## Noteworthy
 
 * Subsonic 6.1 (http://www.subsonic.org)
